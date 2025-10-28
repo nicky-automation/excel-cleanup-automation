@@ -12,3 +12,4 @@ This demo shows how messy spreadsheet data can be cleaned automatically using **
 2. Install requirements  
    ```bash
    pip install -r requirements.txt
+
